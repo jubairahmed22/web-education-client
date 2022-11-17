@@ -1,0 +1,59 @@
+.barOne {
+    display: flex;
+    background-color: black;
+    justify-content: space-around;
+    font-size: 30px;
+    color: blue;
+
+}
+
+.linkcata {
+    text-decoration: none;
+    font-weight: bold;
+    margin-left: 30px;
+}
+
+.UIcon {
+    width: 30px;
+    height: 30px;
+    margin-left: 10px;
+    color: rgb(117, 255, 32);
+}
+
+.space {
+    color: rgb(117, 255, 32);
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.logOUt {
+    margin-left: 5px;
+}
+
+
+
+
+@media only screen and (max-width:688px) {
+    .barOne {
+
+        display: inline;
+    }
+
+    .meblur {
+        background-color: black;
+        padding: 10px;
+    }
+
+    .webEducation {
+        color: yellow;
+        background-color: black;
+        padding: 10px;
+        font-weight: bold;
+
+    }
+
+    .web {
+        margin-left: 100px;
+    }
+
+}

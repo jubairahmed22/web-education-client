@@ -1,0 +1,61 @@
+.navCardBody {
+    width: 1300px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.cardTitle {
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.pdfbtn {
+    background-color: rgb(40, 6, 207);
+    color: white;
+    padding: 5px;
+    border-radius: 5px;
+    font-size: 20px;
+    font-weight: 600;
+    border: none;
+}
+
+.pdfbtn:hover {
+    background-color: rgb(64, 127, 235);
+    color: chartreuse;
+}
+
+.checkoutAcc {
+
+    font-size: 30px;
+    text-align: center;
+    font-weight: bold;
+    color: white;
+    padding: 10px;
+    background-color: blue;
+    text-decoration: none;
+    border-radius: 5px;
+
+
+}
+
+.checkoutAcc:hover {
+
+    font-size: 30px;
+    text-align: center;
+    font-weight: bold;
+    color: white;
+    padding: 10px;
+    background-color: rgb(157, 60, 255);
+    text-decoration: none;
+
+}
+
+@media only screen and (max-width:488px) {
+
+    .navCardBody {
+        width: 400px;
+        margin-top: 10px;
+        margin-bottom: 10px;
+    }
+
+}

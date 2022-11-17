@@ -1,0 +1,12 @@
+.fullCard {
+
+    margin-top: 50px;
+    background-color: rgb(255, 239, 220);
+    padding: 60px;
+    border-radius: 5px;
+}
+
+.emailtxt {
+    font-size: 25px;
+    font-weight: bold;
+}
